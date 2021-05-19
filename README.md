@@ -1,3 +1,12 @@
+# Netflix Clone - ReactJS + Redux + Firebase.
+
+Used Firebase for authentication and Redux for global state management.
+
+## Preview
+
+<img src="screenshots/welcome.png" width="500"><img src="screenshots/login.png" width="500"><img src="screenshots/home.png" width="500"><img src="screenshots/home2.png" width="500"><img src="screenshots/profile.png" width="500">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
