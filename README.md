@@ -1,6 +1,7 @@
 # Netflix Clone - ReactJS + Redux + Firebase.
 
-Used Firebase for authentication and Redux for global state management.
+Used Firebase for authentication and Redux for global state management.     
+Check out the project: https://netflix-clone-devtyagi.web.app/
 
 ## Preview
 
